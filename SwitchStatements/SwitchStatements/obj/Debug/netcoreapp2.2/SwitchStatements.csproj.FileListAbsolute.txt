@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp2.2\SwitchStatements.deps.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp2.2\SwitchStatements.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp2.2\SwitchStatements.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp2.2\SwitchStatements.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\bin\Debug\netcoreapp2.2\SwitchStatements.pdb
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp2.2\SwitchStatements.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp2.2\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp2.2\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp2.2\SwitchStatements.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp2.2\SwitchStatements.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\SwitchStatements\SwitchStatements\obj\Debug\netcoreapp2.2\SwitchStatements.pdb

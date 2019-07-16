@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\InClassExamplesJuly2019\\ConditionalsExercise1\\ConditionalsExercise1\\ConditionalsExercise1.csproj",
+      "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\ConditionalsExercise1\\ConditionalsExercise1\\ConditionalsExercise1.csproj",
       "projectName": "ConditionalsExercise1",
-      "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\InClassExamplesJuly2019\\ConditionalsExercise1\\ConditionalsExercise1\\ConditionalsExercise1.csproj",
+      "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\ConditionalsExercise1\\ConditionalsExercise1\\ConditionalsExercise1.csproj",
       "packagesPath": "C:\\Users\\grand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\InClassExamplesJuly2019\\ConditionalsExercise1\\ConditionalsExercise1\\obj\\",
+      "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\ConditionalsExercise1\\ConditionalsExercise1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

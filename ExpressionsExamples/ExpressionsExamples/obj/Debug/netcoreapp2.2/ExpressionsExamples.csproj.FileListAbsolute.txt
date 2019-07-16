@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\bin\Debug\netcoreapp2.2\ExpressionsExamples.deps.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\bin\Debug\netcoreapp2.2\ExpressionsExamples.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\bin\Debug\netcoreapp2.2\ExpressionsExamples.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\bin\Debug\netcoreapp2.2\ExpressionsExamples.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\bin\Debug\netcoreapp2.2\ExpressionsExamples.pdb
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\obj\Debug\netcoreapp2.2\ExpressionsExamples.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\obj\Debug\netcoreapp2.2\ExpressionsExamples.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\obj\Debug\netcoreapp2.2\ExpressionsExamples.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\obj\Debug\netcoreapp2.2\ExpressionsExamples.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\obj\Debug\netcoreapp2.2\ExpressionsExamples.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ExpressionsExamples\ExpressionsExamples\obj\Debug\netcoreapp2.2\ExpressionsExamples.pdb

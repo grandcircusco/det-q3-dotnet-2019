@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\bin\Debug\netcoreapp2.2\RelationalOperators.deps.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\bin\Debug\netcoreapp2.2\RelationalOperators.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\bin\Debug\netcoreapp2.2\RelationalOperators.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\bin\Debug\netcoreapp2.2\RelationalOperators.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\bin\Debug\netcoreapp2.2\RelationalOperators.pdb
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\obj\Debug\netcoreapp2.2\RelationalOperators.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\obj\Debug\netcoreapp2.2\RelationalOperators.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\obj\Debug\netcoreapp2.2\RelationalOperators.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\obj\Debug\netcoreapp2.2\RelationalOperators.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\obj\Debug\netcoreapp2.2\RelationalOperators.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\RelationalOperators\RelationalOperators\obj\Debug\netcoreapp2.2\RelationalOperators.pdb
