@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\bin\Debug\netcoreapp2.2\VariableExercise1.deps.json
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\bin\Debug\netcoreapp2.2\VariableExercise1.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\bin\Debug\netcoreapp2.2\VariableExercise1.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\bin\Debug\netcoreapp2.2\VariableExercise1.dll
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\bin\Debug\netcoreapp2.2\VariableExercise1.pdb
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\obj\Debug\netcoreapp2.2\VariableExercise1.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\obj\Debug\netcoreapp2.2\VariableExercise1.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\obj\Debug\netcoreapp2.2\VariableExercise1.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\obj\Debug\netcoreapp2.2\VariableExercise1.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\obj\Debug\netcoreapp2.2\VariableExercise1.dll
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\VariableExercise1\VariableExercise1\obj\Debug\netcoreapp2.2\VariableExercise1.pdb

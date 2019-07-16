@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\bin\Debug\netcoreapp2.2\ConsoleClassExamples.deps.json
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\bin\Debug\netcoreapp2.2\ConsoleClassExamples.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\bin\Debug\netcoreapp2.2\ConsoleClassExamples.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\bin\Debug\netcoreapp2.2\ConsoleClassExamples.dll
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\bin\Debug\netcoreapp2.2\ConsoleClassExamples.pdb
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\obj\Debug\netcoreapp2.2\ConsoleClassExamples.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\obj\Debug\netcoreapp2.2\ConsoleClassExamples.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\obj\Debug\netcoreapp2.2\ConsoleClassExamples.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\obj\Debug\netcoreapp2.2\ConsoleClassExamples.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\obj\Debug\netcoreapp2.2\ConsoleClassExamples.dll
+C:\Users\grand\OneDrive\Desktop\InClassExamplesJuly2019\ConsoleClassExamples\ConsoleClassExamples\obj\Debug\netcoreapp2.2\ConsoleClassExamples.pdb
