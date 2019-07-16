@@ -5,6 +5,10 @@ git init - Initialize (create) a new local repository. Only do this once per pro
 git add <file/folder> - Add a file or folder to the staging area. Include the name or path of the file or folder. Do not include the angle brackets (<, >).
 git commit -m '<message>' - Commit the staging area changes as a snapshot on the repository timeline. Replace <message> with a description of the changes you're making. Do not include the angle brackets (<, >).
 
+git reset HEAD <file> - Remove a file from staging.
+
+git rm --cached -r . - Recursively(-r) remove ALL(.) files from staging.
+
 git push - Push (copy) your committed changes to the remote repositroy (i.e. GitHub).
 
 git pull - Pull (copy) changes from a remote (i.e. GitHub) repository to your computer.
@@ -38,5 +42,3 @@ git push --force - update GitHub after a reset
 git reset --hard origin/master - reset local repo to GitHub
 
 git checkout -- <file> - undo all changes to a file
-
-git reset HEAD <file> - remove a file from staging
