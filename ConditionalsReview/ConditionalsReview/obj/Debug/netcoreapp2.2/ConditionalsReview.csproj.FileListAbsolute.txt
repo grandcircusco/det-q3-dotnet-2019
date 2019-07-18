@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\bin\Debug\netcoreapp2.2\ConditionalsReview.deps.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\bin\Debug\netcoreapp2.2\ConditionalsReview.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\bin\Debug\netcoreapp2.2\ConditionalsReview.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\bin\Debug\netcoreapp2.2\ConditionalsReview.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\bin\Debug\netcoreapp2.2\ConditionalsReview.pdb
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\obj\Debug\netcoreapp2.2\ConditionalsReview.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\obj\Debug\netcoreapp2.2\ConditionalsReview.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\obj\Debug\netcoreapp2.2\ConditionalsReview.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\obj\Debug\netcoreapp2.2\ConditionalsReview.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\obj\Debug\netcoreapp2.2\ConditionalsReview.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\ConditionalsReview\ConditionalsReview\obj\Debug\netcoreapp2.2\ConditionalsReview.pdb
