@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoidMethods", "VoidMethods\VoidMethods.csproj", "{28BBD67D-5CC7-45CF-B026-01867251EFE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoidMethods", "VoidMethods\VoidMethods.csproj", "{28BBD67D-5CC7-45CF-B026-01867251EFE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadIntMethods", "ReadIntMethods\ReadIntMethods.csproj", "{9F23E2B8-CB55-4506-88F5-8780D9669DB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadIntMethods", "ReadIntMethods\ReadIntMethods.csproj", "{9F23E2B8-CB55-4506-88F5-8780D9669DB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoidMethodOverloading", "VoidMethodOverloading\VoidMethodOverloading.csproj", "{C64622B4-478B-447F-93B4-3C712B415917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoidMethodOverloading", "VoidMethodOverloading\VoidMethodOverloading.csproj", "{C64622B4-478B-447F-93B4-3C712B415917}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InClassCalculator", "InClassCalculator\InClassCalculator.csproj", "{8D5FFA04-6F66-408D-8DF6-3E51F4CF1F96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InClassCalculator", "InClassCalculator\InClassCalculator.csproj", "{8D5FFA04-6F66-408D-8DF6-3E51F4CF1F96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{2C4E02F2-DFFE-4A62-A204-E5A352105412}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursionValidation", "RecursionValidation\RecursionValidation.csproj", "{158C8D79-F87D-4472-90A7-7CF62281202D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntValidationWithRecursion", "IntValidationWithRecursion\IntValidationWithRecursion.csproj", "{61750FBC-1A39-4E51-82B8-12D577441F3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{8D5FFA04-6F66-408D-8DF6-3E51F4CF1F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D5FFA04-6F66-408D-8DF6-3E51F4CF1F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D5FFA04-6F66-408D-8DF6-3E51F4CF1F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4E02F2-DFFE-4A62-A204-E5A352105412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4E02F2-DFFE-4A62-A204-E5A352105412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4E02F2-DFFE-4A62-A204-E5A352105412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4E02F2-DFFE-4A62-A204-E5A352105412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158C8D79-F87D-4472-90A7-7CF62281202D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158C8D79-F87D-4472-90A7-7CF62281202D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158C8D79-F87D-4472-90A7-7CF62281202D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158C8D79-F87D-4472-90A7-7CF62281202D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61750FBC-1A39-4E51-82B8-12D577441F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61750FBC-1A39-4E51-82B8-12D577441F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61750FBC-1A39-4E51-82B8-12D577441F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61750FBC-1A39-4E51-82B8-12D577441F3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

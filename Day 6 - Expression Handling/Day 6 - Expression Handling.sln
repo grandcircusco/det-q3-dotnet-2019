@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 6 - Expression Handling", "Day 6 - Expression Handling\Day 6 - Expression Handling.csproj", "{DDA701B0-9B47-44EF-B8FE-C5373CDDC6D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex", "Regex\Regex.csproj", "{7D53AF46-A6BD-47B1-B730-59A9BCFE62AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA701B0-9B47-44EF-B8FE-C5373CDDC6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA701B0-9B47-44EF-B8FE-C5373CDDC6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA701B0-9B47-44EF-B8FE-C5373CDDC6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA701B0-9B47-44EF-B8FE-C5373CDDC6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D53AF46-A6BD-47B1-B730-59A9BCFE62AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D53AF46-A6BD-47B1-B730-59A9BCFE62AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D53AF46-A6BD-47B1-B730-59A9BCFE62AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D53AF46-A6BD-47B1-B730-59A9BCFE62AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D1C40DE-9DD0-4919-9354-D3CF04020ECF}
+	EndGlobalSection
+EndGlobal

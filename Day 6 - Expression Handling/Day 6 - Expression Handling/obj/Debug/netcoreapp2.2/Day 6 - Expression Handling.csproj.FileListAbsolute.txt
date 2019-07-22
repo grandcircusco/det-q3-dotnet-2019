@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\bin\Debug\netcoreapp2.2\Day 6 - Expression Handling.deps.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\bin\Debug\netcoreapp2.2\Day 6 - Expression Handling.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\bin\Debug\netcoreapp2.2\Day 6 - Expression Handling.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\bin\Debug\netcoreapp2.2\Day 6 - Expression Handling.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\bin\Debug\netcoreapp2.2\Day 6 - Expression Handling.pdb
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\obj\Debug\netcoreapp2.2\Day 6 - Expression Handling.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\obj\Debug\netcoreapp2.2\Day 6 - Expression Handling.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\obj\Debug\netcoreapp2.2\Day 6 - Expression Handling.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\obj\Debug\netcoreapp2.2\Day 6 - Expression Handling.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\obj\Debug\netcoreapp2.2\Day 6 - Expression Handling.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Day 6 - Expression Handling\Day 6 - Expression Handling\obj\Debug\netcoreapp2.2\Day 6 - Expression Handling.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops - Day 4", "Loops - Day 4\Loops - Day 4.csproj", "{F4027A00-20C1-4E79-ADDD-D269A658FC55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopExample", "ForLoopExample\ForLoopExample.csproj", "{6E0411B9-E0F9-4829-A445-4E371B709658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4027A00-20C1-4E79-ADDD-D269A658FC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4027A00-20C1-4E79-ADDD-D269A658FC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4027A00-20C1-4E79-ADDD-D269A658FC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4027A00-20C1-4E79-ADDD-D269A658FC55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0411B9-E0F9-4829-A445-4E371B709658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0411B9-E0F9-4829-A445-4E371B709658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0411B9-E0F9-4829-A445-4E371B709658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0411B9-E0F9-4829-A445-4E371B709658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {047FE8E6-B3A1-447B-9363-3A16AF553733}
+	EndGlobalSection
+EndGlobal
