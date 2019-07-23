@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\bin\Debug\netcoreapp2.2\Methods1.deps.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\bin\Debug\netcoreapp2.2\Methods1.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\bin\Debug\netcoreapp2.2\Methods1.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\bin\Debug\netcoreapp2.2\Methods1.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\bin\Debug\netcoreapp2.2\Methods1.pdb
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\obj\Debug\netcoreapp2.2\Methods1.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\obj\Debug\netcoreapp2.2\Methods1.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\obj\Debug\netcoreapp2.2\Methods1.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\obj\Debug\netcoreapp2.2\Methods1.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\obj\Debug\netcoreapp2.2\Methods1.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\Methods1\Methods1\obj\Debug\netcoreapp2.2\Methods1.pdb

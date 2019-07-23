@@ -1,0 +1,10 @@
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\MethodOverloading\InClassCalculator\obj\Debug\netcoreapp2.2\InClassCalculator.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\MethodOverloading\InClassCalculator\obj\Debug\netcoreapp2.2\InClassCalculator.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\MethodOverloading\InClassCalculator\obj\Debug\netcoreapp2.2\InClassCalculator.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\MethodOverloading\InClassCalculator\bin\Debug\netcoreapp2.2\InClassCalculator.deps.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\MethodOverloading\InClassCalculator\bin\Debug\netcoreapp2.2\InClassCalculator.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\MethodOverloading\InClassCalculator\bin\Debug\netcoreapp2.2\InClassCalculator.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\MethodOverloading\InClassCalculator\bin\Debug\netcoreapp2.2\InClassCalculator.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\MethodOverloading\InClassCalculator\bin\Debug\netcoreapp2.2\InClassCalculator.pdb
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\MethodOverloading\InClassCalculator\obj\Debug\netcoreapp2.2\InClassCalculator.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\MethodOverloading\InClassCalculator\obj\Debug\netcoreapp2.2\InClassCalculator.pdb
