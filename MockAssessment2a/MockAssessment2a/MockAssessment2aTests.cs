@@ -7,9 +7,10 @@ namespace MockAssessment2a
 {
     public class MockAssessment2aTests
     {
+
         [Fact]
         public static void AddToArray()
-        {            
+        {
             int actual = Challenge.AddStarWarsCharacters("Luke", "Darth", "Yoda");
 
             Assert.Equal(2, actual);
@@ -33,10 +34,10 @@ namespace MockAssessment2a
         [Fact]
         public static void PlanetReversal()
         {
-            string[] planeted = {"Tatooine", "Alderaan", "Hoth", "Naboo", "Endor" };
+            string[] planeted = { "Tatooine", "Alderaan", "Hoth", "Naboo", "Endor" };
 
-            List<string> expected = new List<string> {"Endor", "Naboo", "Hoth", "Alderaan", "Tatooine" };
-            List<string> actual = Challenge.ConvertPlantets(new List<string>(), planeted);
+            List<string> expected = new List<string> { "Endor", "Naboo", "Hoth", "Alderaan", "Tatooine" };
+            List<string> actual = Challenge.ConvertPlanets(planeted);
 
             Assert.Equal(expected, actual);
         }
@@ -47,19 +48,19 @@ namespace MockAssessment2a
             List<int> droids = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 23, 16, 5678, 234, 5, 46, 678, 9, 87, 456, 356, 34, 2 };
 
 
-            double expected = 537.857142857143;           
+            double expected = 537.857142857143;
 
             double actual = Challenge.AverageDroids(droids);
 
             Assert.Equal(Math.Round(expected, 2), Math.Round(actual, 2));
         }
-        
+
         [Fact]
         public static void VaderWasCaptured()
         {
             string expected = "Vader Was Captured".ToLower();
-            string actual = Challenge.TryToCatchDarthVader("1").ToLower();       
-            
+            string actual = Challenge.TryToCatchDarthVader("1").ToLower();
+
 
             Assert.Contains(expected, actual);
         }
@@ -68,7 +69,7 @@ namespace MockAssessment2a
         public static void VaderGotAway()
         {
             string expected = "Vader Got Away".ToLower();
-            string actual = Challenge.TryToCatchDarthVader("Vader Haters").ToLower();           
+            string actual = Challenge.TryToCatchDarthVader("Vader Haters").ToLower();
 
             Assert.Contains(expected, actual);
         }
