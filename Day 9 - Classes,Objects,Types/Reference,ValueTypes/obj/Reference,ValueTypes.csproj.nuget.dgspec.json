@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Reference,ValueTypes\\Reference,ValueTypes.csproj": {}
+    "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Reference,ValueTypes\\Reference,ValueTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Reference,ValueTypes\\Reference,ValueTypes.csproj": {
+    "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Reference,ValueTypes\\Reference,ValueTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Reference,ValueTypes\\Reference,ValueTypes.csproj",
+        "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Reference,ValueTypes\\Reference,ValueTypes.csproj",
         "projectName": "Reference,ValueTypes",
-        "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Reference,ValueTypes\\Reference,ValueTypes.csproj",
+        "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Reference,ValueTypes\\Reference,ValueTypes.csproj",
         "packagesPath": "C:\\Users\\grand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Reference,ValueTypes\\obj\\",
+        "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Reference,ValueTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

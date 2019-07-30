@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\ClassmateClass\\ClassmateClass.csproj",
+      "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\ClassmateClass\\ClassmateClass.csproj",
       "projectName": "ClassmateClass",
-      "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\ClassmateClass\\ClassmateClass.csproj",
+      "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\ClassmateClass\\ClassmateClass.csproj",
       "packagesPath": "C:\\Users\\grand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\ClassmateClass\\obj\\",
+      "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\ClassmateClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

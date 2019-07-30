@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\bin\Debug\netcoreapp2.2\CourseClassExercise.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\bin\Debug\netcoreapp2.2\CourseClassExercise.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\bin\Debug\netcoreapp2.2\CourseClassExercise.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\bin\Debug\netcoreapp2.2\CourseClassExercise.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\bin\Debug\netcoreapp2.2\CourseClassExercise.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\obj\Debug\netcoreapp2.2\CourseClassExercise.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\obj\Debug\netcoreapp2.2\CourseClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\obj\Debug\netcoreapp2.2\CourseClassExercise.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\obj\Debug\netcoreapp2.2\CourseClassExercise.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\obj\Debug\netcoreapp2.2\CourseClassExercise.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\CourseClassExercise\obj\Debug\netcoreapp2.2\CourseClassExercise.pdb

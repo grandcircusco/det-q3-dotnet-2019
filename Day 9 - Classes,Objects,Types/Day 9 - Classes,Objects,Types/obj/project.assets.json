@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Day 9 - Classes,Objects,Types\\Day 9 - Classes,Objects,Types.csproj",
+      "projectUniqueName": "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Day 9 - Classes,Objects,Types\\Day 9 - Classes,Objects,Types.csproj",
       "projectName": "Day 9 - Classes,Objects,Types",
-      "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Day 9 - Classes,Objects,Types\\Day 9 - Classes,Objects,Types.csproj",
+      "projectPath": "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Day 9 - Classes,Objects,Types\\Day 9 - Classes,Objects,Types.csproj",
       "packagesPath": "C:\\Users\\grand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Day 9 - Classes,Objects,Types\\obj\\",
+      "outputPath": "C:\\Users\\grand\\OneDrive\\Desktop\\Grand Circus Docs - Anna\\det-q3-dotnet-2019\\Day 9 - Classes,Objects,Types\\Day 9 - Classes,Objects,Types\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
