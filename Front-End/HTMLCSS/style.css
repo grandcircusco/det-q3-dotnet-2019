@@ -1,0 +1,37 @@
+body{
+    background-color: blueviolet;
+    color: blanchedalmond;
+}
+
+h1{
+    color: green;
+    text-align: center;
+    height: 50px;
+
+}
+
+.cats{
+    color: red;
+}
+
+#CatTitle{
+    text-align: right;
+}
+
+ div p{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 25px;
+     font-weight: 500;
+     text-decoration-line: line-through;
+     text-decoration-color: cyan;
+
+    /* position: relative;
+    top: 100px;
+    left: 100px; */
+} 
+
+img{
+    height: 250px;
+    width: auto;
+}
+/* This is how you write a comment! */

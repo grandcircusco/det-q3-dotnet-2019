@@ -1,0 +1,15 @@
+body{
+    background-image: url(Seinfeld_Celebrate.gif);
+}
+
+div{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 250px;
+}
+
+p{
+
+    padding: 20px;
+    background-color: green;
+}

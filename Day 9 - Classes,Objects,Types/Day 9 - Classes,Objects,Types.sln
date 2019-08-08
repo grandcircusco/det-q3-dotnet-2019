@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassmateClass", "Classmate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccountClass", "BankAccountClass\BankAccountClass.csproj", "{0124EAA5-7950-4121-9D64-0489069BC92D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseClassExercise", "CourseClassExercise\CourseClassExercise.csproj", "{3B031DD1-E72D-4BDF-81C3-CD37F859A3BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseClassExercise", "CourseClassExercise\CourseClassExercise.csproj", "{3B031DD1-E72D-4BDF-81C3-CD37F859A3BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonStudentInherit", "PersonStudentInherit\PersonStudentInherit.csproj", "{7C06D45E-2E6F-435F-89BA-41F2687C891C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonStudentInherit", "PersonStudentInherit\PersonStudentInherit.csproj", "{7C06D45E-2E6F-435F-89BA-41F2687C891C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreItemsACInterface", "StoreItemsACInterface\StoreItemsACInterface.csproj", "{6BE9FC72-E3A1-40B1-BC69-D58BF0CACE72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7C06D45E-2E6F-435F-89BA-41F2687C891C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C06D45E-2E6F-435F-89BA-41F2687C891C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C06D45E-2E6F-435F-89BA-41F2687C891C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE9FC72-E3A1-40B1-BC69-D58BF0CACE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE9FC72-E3A1-40B1-BC69-D58BF0CACE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE9FC72-E3A1-40B1-BC69-D58BF0CACE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE9FC72-E3A1-40B1-BC69-D58BF0CACE72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

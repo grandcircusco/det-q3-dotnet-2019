@@ -1,0 +1,11 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\bin\Debug\netcoreapp2.2\StoreItemsACInterface.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\bin\Debug\netcoreapp2.2\StoreItemsACInterface.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\bin\Debug\netcoreapp2.2\StoreItemsACInterface.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\bin\Debug\netcoreapp2.2\StoreItemsACInterface.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\bin\Debug\netcoreapp2.2\StoreItemsACInterface.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\obj\Debug\netcoreapp2.2\StoreItemsACInterface.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\obj\Debug\netcoreapp2.2\StoreItemsACInterface.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\obj\Debug\netcoreapp2.2\StoreItemsACInterface.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\obj\Debug\netcoreapp2.2\StoreItemsACInterface.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\obj\Debug\netcoreapp2.2\StoreItemsACInterface.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 9 - Classes,Objects,Types\StoreItemsACInterface\obj\Debug\netcoreapp2.2\StoreItemsACInterface.pdb
