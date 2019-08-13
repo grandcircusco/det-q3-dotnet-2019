@@ -1,0 +1,15 @@
+.contact-list{
+    border: 1px solid black;
+}
+
+.contact-card{
+    border: 3px dashed magenta;
+    color: blueviolet;
+    background: gray;
+}
+
+.data-hover{
+    color: white;
+    font-size: 30px;
+    text-decoration: wavy;
+}

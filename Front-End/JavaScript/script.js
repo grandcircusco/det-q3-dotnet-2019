@@ -121,9 +121,10 @@ function displayContacts() { //element represents each object in the array
     contactList.forEach(function(element, index){
         let div = document.createElement("div");
         //^this is how we create HTML elements in JS
+        div.classList.add("contact-card");
         div.innerHTML = `
-        <p>Name: ${element.name} </p>
-        <p>Phone Number: ${element.phoneNumber} </p>
+        <p class="contact-data">Name: ${element.name} </p>
+        <p class="contact-data">Phone Number: ${element.phoneNumber} </p>
         <button index=${index}>X</button>
         `;
         //back ticks allow JS to utilize multiline strings,
@@ -155,3 +156,20 @@ if(event.target.tagName === "BUTTON"){
     displayContacts();
 }
 });
+
+//add a mouse enter event
+document.querySelector(".contact-list")
+.addEventListener("mouseover", function(event){
+if(event.target.classList.contains("contact-data")){
+    event.target.classList.add("data-hover");
+}
+})
+
+//add a mouse leave event
+
+document.querySelector(".contact-list")
+.addEventListener("mouseout", function(event){
+if(event.target.classList.contains("contact-data")){
+    event.target.classList.remove("data-hover");
+}
+})

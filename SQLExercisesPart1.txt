@@ -1,0 +1,32 @@
+--CREATE DATABASE ClassDb;
+
+--CREATE TABLE ClassDb..Student(
+--	StudentID INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+--	FirstName nvarchar(20) NOT NULL,
+--	LastName nvarchar(20) NOT NULL,
+--	PhoneNumber nchar(10),
+--	DOB date NOT NULL
+----);
+--INSERT INTO Student(FirstName, LastName, PhoneNumber, DOB)
+--VALUES('Herman', 'Munster', '5218765582', '1972/02/23'),
+--('Peewee', 'Herman', '3138675309', '1980/09/02'),
+--('Nicolai', 'Tessla', '3137777777', '1854/7/10');
+
+--SELECT * FROM Student;
+
+--SELECT FirstName, LastName FROM Student WHERE DOB < '1975/01/01';
+
+--USE ClassDb
+
+--UPDATE Avenger SET PrimaryPower='Hammer' WHERE name='Thor'
+
+--UPDATE Student SET PhoneNumber='0000000000' WHERE DOB < '1857/6/1';
+
+
+--DELETE FROM Student WHERE FirstName='Peewee';
+
+--DELETE FROM Student WHERE StudentID=1;
+
+select FirstName, LastName FROM Student ORDER BY DOB;
+
+--select * from Student
