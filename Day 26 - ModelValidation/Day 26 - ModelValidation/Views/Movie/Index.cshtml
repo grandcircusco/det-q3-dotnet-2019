@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@model Day_26___ModelValidation.Models.Movie
+
+@Html.ValidationSummary()
+
+<form action="/Movie/DisplayMovie" method="post" class="border-dark">
+    <div class="col-12">
+        Title:
+        <input type="text" name="Title" value="@Model.Title" placeholder="@Model.Title" class="col-5" />
+        @*@Html.ValidationMessageFor(m=>m.Title)*@
+    </div>
+    <div class="col-12">
+        Genre: <input type="text" name="Genre" value="@Model.Genre" placeholder="@Model.Genre" class="col-5" />
+        @Html.ValidationMessageFor(m => m.Genre)
+
+    </div>
+    <div class="col-12">
+        Release Date: <input type="datetime" name="ReleaseDate" value="@Model.ReleaseDate" placeholder="@Model.ReleaseDate" class="col-5" />
+        @Html.ValidationMessageFor(m => m.ReleaseDate)
+
+    </div>
+    <div class="col-12">
+        Rating: <input type="text" name="Rating" value="@Model.Rating" placeholder="@Model.Rating" class="col-5" />
+        @Html.ValidationMessageFor(m => m.Rating)
+
+    </div>
+    <div class="col-12">
+        Run Time: <input type="number" name="RunTime" value="@Model.RunTime" placeholder="@Model.RunTime" class="col-5" />
+        @Html.ValidationMessageFor(m => m.RunTime)
+
+    </div>
+
+    <input type="submit" value="Add Movie" />
+</form>

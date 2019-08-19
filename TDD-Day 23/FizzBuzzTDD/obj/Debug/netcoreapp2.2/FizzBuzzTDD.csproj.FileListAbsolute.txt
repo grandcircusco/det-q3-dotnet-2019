@@ -1,0 +1,14 @@
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\bin\Debug\netcoreapp2.2\FizzBuzzTDD.deps.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\bin\Debug\netcoreapp2.2\FizzBuzzTDD.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\bin\Debug\netcoreapp2.2\FizzBuzzTDD.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\bin\Debug\netcoreapp2.2\FizzBuzzTDD.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\bin\Debug\netcoreapp2.2\FizzBuzzTDD.pdb
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\obj\Debug\netcoreapp2.2\FizzBuzzTDD.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\obj\Debug\netcoreapp2.2\FizzBuzzTDD.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\obj\Debug\netcoreapp2.2\FizzBuzzTDD.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\obj\Debug\netcoreapp2.2\FizzBuzzTDD.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\obj\Debug\netcoreapp2.2\FizzBuzzTDD.dll
+C:\Users\grand\OneDrive\Desktop\det-q3-dotnet-2019\TDD-Day 23\FizzBuzzTDD\obj\Debug\netcoreapp2.2\FizzBuzzTDD.pdb

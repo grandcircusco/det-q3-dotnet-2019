@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Second";
+    var susanVariable = TempData["SusanKey"]?.ToString();
+    TempData.Keep();
+}
+
+<h1>Second</h1>
+
+Susan Name: @susanVariable
+

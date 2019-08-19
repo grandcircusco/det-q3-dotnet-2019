@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Student Form";
+}
+
+<h1>Student Form</h1>
+
+@model Day_24___ASP.NET_Core.Models.Student
+
+@using (var form = Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.FirstName)
+        @Html.TextBoxFor(m => m.FirstName)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.LastName)
+        @Html.TextBoxFor(m => m.LastName)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Age)
+        @Html.TextBoxFor(m => m.Age)
+    </div>
+    <input type="submit" value="Submit" />
+
+}
