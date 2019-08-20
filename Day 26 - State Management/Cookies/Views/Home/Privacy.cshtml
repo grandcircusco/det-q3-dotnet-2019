@@ -1,6 +1,20 @@
 ﻿@{
     ViewData["Title"] = "Privacy Policy";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+
+@Html.ActionLink("Home Page", "Index")
+
+<p>
+    @ViewBag.PrivacyMessage1
+
+</p>
+<p>
+    @ViewData["PrivacyMessage"]
+
+</p>
+    @{
+        <p>@TempData["PrivacyMessage"]</p>
+        TempData.Keep();
+    }
+

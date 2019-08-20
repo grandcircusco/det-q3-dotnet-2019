@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "ListItems";
+}
+
+<h1>List Items</h1>
+
+@model IEnumerable<PaymentCookies.Models.Items>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Quantity</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>@item.Quantity</td>
+            <td>@Html.ActionLink("Add to Cart", "AddItemToCart", "Payment", item)</td>
+        </tr>
+    }
+
+</table>
+

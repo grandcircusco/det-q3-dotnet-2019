@@ -13,13 +13,18 @@
 }
 else
 {
-   
+
     <form asp-action="Index">
         <span>Hey, Karen, what's your name, Karen?</span>
         <label>Please provide your name, Karen.</label>
         @Html.TextBox("karenName")
-    <div class="form-group">
-        <input type="submit" value="Karen!" class="btn btn-primary" />
-    </div>
+        <div class="form-group">
+            <input type="submit" value="Karen!" class="btn btn-primary" />
+        </div>
     </form>
 }
+
+
+    <div>
+        @TempData["PrivacyMessage"]
+    </div>

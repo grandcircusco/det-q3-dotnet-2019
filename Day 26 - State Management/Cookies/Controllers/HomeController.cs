@@ -37,5 +37,14 @@ namespace Cookies.Controllers
             Response.Cookies.Delete("KarenKey");
             return View("Index");
         }
+
+        public IActionResult Privacy()
+        {
+            ViewBag.PrivacyMessage1 = "This is our privacy page.";
+            ViewData["PrivacyMessage"] = "This is the same privacy page.";
+            TempData["PrivacyMessage"] = "This is a temporary message from the privacy page.";
+            //TempData.Keep();
+            return View();
+        }
     }
 }

@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "PaymentForm";
+}
+
+<h1>Payment Form</h1>
+
+<form action="/Payment/SavePaymentInfo" method="post" class="form-control">
+    Number: <input type="text" name="Number" value="" />
+    Name on card: <input type="text" name="Name" value="" />
+    Experation Date: <input type="date" name="ExperationDate" value="" />
+    CVC: <input type="text" name="CVC" value="" />
+    ZipCode: <input type="text" name="ZipCode" value="" />
+
+    Save Payment?
+    yes: <input type="radio" name="SavePayment" value="yes" />
+    no: <input type="radio" name="SavePayment" value="no" />
+
+        <input type="submit" value="Submit Payment" />
+</form>
