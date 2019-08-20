@@ -26,6 +26,7 @@ namespace PaymentCookies.Controllers
         public IActionResult ListItems()
         {
             return View(availableItems);
+            //return View("ListItems", availableItems);
         }
 
         public IActionResult AddItemToCart(Items item)

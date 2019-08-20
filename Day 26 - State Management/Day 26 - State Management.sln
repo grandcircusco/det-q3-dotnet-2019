@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 26 - State Management",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cookies", "Cookies\Cookies.csproj", "{B064CC3A-0899-4FBE-B31F-859818266F51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentCookies", "PaymentCookies\PaymentCookies.csproj", "{35C0E2A2-5C9F-43D9-8EBE-3AEE62779E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentCookies", "PaymentCookies\PaymentCookies.csproj", "{35C0E2A2-5C9F-43D9-8EBE-3AEE62779E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionExample", "SessionExample\SessionExample.csproj", "{ADCF0417-7253-4C75-B586-422D82ACB871}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{35C0E2A2-5C9F-43D9-8EBE-3AEE62779E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35C0E2A2-5C9F-43D9-8EBE-3AEE62779E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35C0E2A2-5C9F-43D9-8EBE-3AEE62779E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCF0417-7253-4C75-B586-422D82ACB871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCF0417-7253-4C75-B586-422D82ACB871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCF0417-7253-4C75-B586-422D82ACB871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCF0417-7253-4C75-B586-422D82ACB871}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
