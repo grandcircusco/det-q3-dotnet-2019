@@ -1,0 +1,30 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\bin\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\bin\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\bin\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\bin\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.RazorAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.RazorAssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.TagHelpers.input.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.TagHelpers.output.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.RazorCoreGenerate.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.RazorTargetAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.RazorTargetAssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\bin\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\bin\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.Views.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\bin\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.Views.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.Views.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\Day 28 - EntityFrameworkCore\obj\Debug\netcoreapp2.2\Day 28 - EntityFrameworkCore.csproj.CopyComplete
