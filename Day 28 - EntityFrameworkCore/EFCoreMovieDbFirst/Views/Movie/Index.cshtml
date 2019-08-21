@@ -7,9 +7,15 @@
 
 @model IEnumerable<Movie>
 
+<div class="row">
     @foreach (var movie in Model)
     {
         <div class="col-md-4">
-            
+            <h3>@movie.Title</h3>
+            <p>@movie.ReleaseYear</p>
+            <a href="/Movie/DeleteMovie?Id=@movie.MovieId"> <input type="submit" value="Delete Movie" /> </a>
         </div>
     }
+</div>
+
+@Html.ActionLink("Add new movie!", "AddMovie")

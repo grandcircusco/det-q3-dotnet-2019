@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Add Movie";
+}
+
+<h1>Add Movie</h1>
+
+<form action="/Movie/AddMovie" method="post">
+    <input type="text" name="Title" value="" />
+    <input type="number" name="ReleaseYear" min="1889" max="@(DateTime.Today.Year+1)"/>
+
+    <input type="submit" value="Add Movie!" />
+
+</form>
