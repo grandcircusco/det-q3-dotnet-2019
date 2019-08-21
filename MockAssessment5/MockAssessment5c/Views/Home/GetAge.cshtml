@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "GetAge";
+}
+
+<h1>GetAge</h1>
+
+@ViewBag.NameAndAge
+
+<form action="/Home/Result" method="post">
+     <input type="number" name="Age" />
+     <input type="text" name="UserName" />
+
+    <input type="submit" value="Submit" />
+
+</form>

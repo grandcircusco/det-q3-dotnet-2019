@@ -56,5 +56,40 @@ namespace EFCoreMovieDbFirst.Controllers
             return RedirectToAction("Index");
         }
       
+        [HttpGet]
+        public IActionResult UpdateMovie(int Id)
+        {
+            Movie found = _context.Movie.Find(Id);
+            if(found != null)
+            {
+                return View(found);
+            }
+            else
+            {
+                return RedirectToAction("Index");
+            }
+        }
+
+        [HttpPost]
+        public IActionResult UpdateMovie(Movie updatedMovie)
+        {
+            Movie found = _context.Movie.Find(updatedMovie.MovieId);
+
+            if (ModelState.IsValid && found != null)
+            {
+                found.MovieId = updatedMovie.MovieId;
+                found.Title = updatedMovie.Title;
+                found.ReleaseYear = updatedMovie.ReleaseYear;
+
+                _context.Entry(found).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                _context.Update(found);
+                _context.SaveChanges();
+
+                return RedirectToAction("Index");
+            }
+
+            return View("UpdateMovie", found);
+        }
+
     }
 }

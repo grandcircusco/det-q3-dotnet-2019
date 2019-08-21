@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "Update Movie";
+}
+
+<h1>Update Movie</h1>
+
+@model EFCoreMovieDbFirst.Models.Movie
+
+<form action="/Movie/UpdateMovie" method="post">
+
+    <input type="hidden" name="MovieId" value="@Model.MovieId" />
+    <input type="hidden" name="DirectorId" value="@Model.DirectorId" />
+
+    Title: <input type="text" name="Title" placeholder="@Model.Title" value="@Model.Title" />
+
+    Release Year: <input type="text" name="ReleaseYear" placeholder="@Model.ReleaseYear " value="@Model.ReleaseYear" />
+
+    <input type="submit" value="Save Changes!" />
+</form>

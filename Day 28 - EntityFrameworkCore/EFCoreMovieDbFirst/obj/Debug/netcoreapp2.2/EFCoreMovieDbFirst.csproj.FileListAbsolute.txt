@@ -30,3 +30,4 @@ C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 
 C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\EFCoreMovieDbFirst\obj\Debug\netcoreapp2.2\EFCoreMovieDbFirst.csproj.CopyComplete
 C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\EFCoreMovieDbFirst\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Index.g.cshtml.cs
 C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\EFCoreMovieDbFirst\obj\Debug\netcoreapp2.2\Razor\Views\Movie\AddMovie.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 28 - EntityFrameworkCore\EFCoreMovieDbFirst\obj\Debug\netcoreapp2.2\Razor\Views\Movie\UpdateMovie.g.cshtml.cs
