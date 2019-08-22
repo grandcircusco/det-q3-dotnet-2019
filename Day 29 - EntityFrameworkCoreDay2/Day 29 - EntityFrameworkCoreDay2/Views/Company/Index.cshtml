@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@model IEnumerable<Day_29___EntityFrameworkCoreDay2.Models.Employee>
+
+<h1>Index</h1>
+
+<table class="table">
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+        <th>Department</th>
+    </tr>
+    @foreach (var employee in Model)
+    {
+        <tr>
+            <td>@employee.FirstName</td>
+            <td>@employee.LastName</td>
+            <td>@employee.StartDate.ToShortDateString()</td>
+            <td>@employee.EndDate</td>
+            <td>@employee.Department</td>
+            @*TO DO: We will eventually list the name of the department.*@
+            <td><a href="/Company/RemoveEmployee?Id=@employee.EmployeeId"><input type="submit" value="Fire that guy!" class="btn-block"/></a></td>
+        </tr>
+    }
+</table>
+
+@Html.ActionLink("Hire a new guy!", "AddNewEmployee")

@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "AddNewEmployee";
+}
+
+@model IEnumerable<Day_29___EntityFrameworkCoreDay2.Models.Department>
+
+<h1>Add A New Employee</h1>
+
+<form action="/Company/AddNewEmployee" method="post">
+    First name: <input type="text" name="FirstName" value="" />
+    Last name: <input type="text" name="LastName" />
+    Start date: <input type="date" name="StartDate" />
+
+    <select name="DepartmentId">
+        @foreach (var dept in Model)
+        {
+            <option value="@dept.DepartmentId">@dept.DepName</option>
+        }
+    </select>
+
+    <input type="submit" value="Hire me!" />
+</form>
