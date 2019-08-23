@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model IEnumerable<WebApplication6.Models.Employee>
+<h1>Index</h1>
+
+@foreach(var emp in Model)
+{
+    <a href="/Company/DisplayEmployee?Id=@emp.EmployeeId">@emp.FirstName @emp.LastName</a>
+}
