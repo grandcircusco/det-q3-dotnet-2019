@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "AddBook";
+}
+
+<h1>Add Book</h1>
+
+<form action="/Home/AddBook" method="post">
+    <input type="text" name="Title" placeholder="Title" />
+    <input type="text" name="Author" placeholder="Author" value="Unknown" />
+    <input type="text" name="Genre" placeholder="Genre"/>
+    <input type="date" name="DueDate" placeholder="Due Date" />
+
+    <input type="submit" value="Add book!" />
+
+</form>
+

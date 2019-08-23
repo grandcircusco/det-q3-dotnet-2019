@@ -21,7 +21,7 @@
             <td>@employee.LastName</td>
             <td>@employee.StartDate.ToShortDateString()</td>
             <td>@employee.EndDate</td>
-            <td>@employee.Department</td>
+            <td>@employee.Department.DepName</td>
             @*TO DO: We will eventually list the name of the department.*@
             <td><a href="/Company/RemoveEmployee?Id=@employee.EmployeeId"><input type="submit" value="Fire that guy!" class="btn-block"/></a></td>
         </tr>

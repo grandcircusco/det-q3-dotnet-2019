@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Day_29___EntityFrameworkCoreDay2.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Day_29___EntityFrameworkCoreDay2.Controllers
 {
@@ -18,7 +19,7 @@ namespace Day_29___EntityFrameworkCoreDay2.Controllers
 
         public IActionResult Index()
         {
-            List<Employee> employeeList = _context.Employee.ToList();
+            List<Employee> employeeList = _context.Employee.Include(c => c.Department).ToList();
             return View(employeeList);
         }
 
