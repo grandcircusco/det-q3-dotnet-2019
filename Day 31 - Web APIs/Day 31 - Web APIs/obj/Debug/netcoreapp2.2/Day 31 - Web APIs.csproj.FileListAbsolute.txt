@@ -1,0 +1,32 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\bin\Debug\netcoreapp2.2\Day 31 - Web APIs.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\bin\Debug\netcoreapp2.2\Day 31 - Web APIs.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\bin\Debug\netcoreapp2.2\Day 31 - Web APIs.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\bin\Debug\netcoreapp2.2\Day 31 - Web APIs.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.RazorAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.RazorAssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.TagHelpers.input.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.TagHelpers.output.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.RazorCoreGenerate.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.RazorTargetAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.RazorTargetAssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\bin\Debug\netcoreapp2.2\Day 31 - Web APIs.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\bin\Debug\netcoreapp2.2\Day 31 - Web APIs.Views.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\bin\Debug\netcoreapp2.2\Day 31 - Web APIs.Views.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.Views.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Day 31 - Web APIs.csproj.CopyComplete
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Razor\Views\Joke\Index.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - Web APIs\Day 31 - Web APIs\obj\Debug\netcoreapp2.2\Razor\Views\Giphy\Index.g.cshtml.cs

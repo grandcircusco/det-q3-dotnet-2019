@@ -1,0 +1,30 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\bin\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\bin\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\bin\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\bin\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.RazorAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.RazorAssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.TagHelpers.input.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.TagHelpers.output.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.RazorCoreGenerate.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.RazorTargetAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.RazorTargetAssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\bin\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\bin\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.Views.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\bin\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.Views.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.Views.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 31 - EFCoreCodeFirst\Day 31 - EFCoreCodeFirst\obj\Debug\netcoreapp2.2\Day 31 - EFCoreCodeFirst.csproj.CopyComplete

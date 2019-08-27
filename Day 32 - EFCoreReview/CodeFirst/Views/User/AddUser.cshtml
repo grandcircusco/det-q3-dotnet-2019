@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "AddUser";
+}
+
+@model CodeFirst.Context.Users
+<h1>Add User</h1>
+
+<form action="AddUser" method="post">
+    <input type="text" name="FirstName" placeholder="First Name" />
+    @Html.ValidationMessageFor(m=>m.FirstName)
+    <input type="text" name="LastName" placeholder="Last Name" />
+    <input type="date" name="DateOfBirth" placeholder="Birthday" />
+    <input type="text" name="City" placeholder="City" />
+
+    <input type="submit" value="Add User!" class="btn-light" />
+</form>
+
+@Html.ValidationSummary()

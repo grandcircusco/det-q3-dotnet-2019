@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model IEnumerable<Cats>
+
+<h1>Index</h1>
+<div class="row">
+
+@foreach(var cat in Model)
+   {
+        <div class="col-md-3">
+            <h3>@cat.name</h3>
+            <p>@cat.origin</p>
+            <a href="@cat.wikipedia_url"><input type="submit" class="btn-dark" value="Wikipedia" /></a>
+            <p>@cat.name</p>
+        </div>
+    }
+</div>

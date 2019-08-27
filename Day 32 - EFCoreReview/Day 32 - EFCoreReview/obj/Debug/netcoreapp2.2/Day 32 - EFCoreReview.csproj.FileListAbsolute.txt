@@ -1,0 +1,14 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\bin\Debug\netcoreapp2.2\Day 32 - EFCoreReview.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\bin\Debug\netcoreapp2.2\Day 32 - EFCoreReview.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\bin\Debug\netcoreapp2.2\Day 32 - EFCoreReview.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\bin\Debug\netcoreapp2.2\Day 32 - EFCoreReview.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\bin\Debug\netcoreapp2.2\Day 32 - EFCoreReview.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\obj\Debug\netcoreapp2.2\Day 32 - EFCoreReview.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\obj\Debug\netcoreapp2.2\Day 32 - EFCoreReview.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\obj\Debug\netcoreapp2.2\Day 32 - EFCoreReview.RazorAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\obj\Debug\netcoreapp2.2\Day 32 - EFCoreReview.RazorAssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\obj\Debug\netcoreapp2.2\Day 32 - EFCoreReview.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\obj\Debug\netcoreapp2.2\Day 32 - EFCoreReview.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\obj\Debug\netcoreapp2.2\Day 32 - EFCoreReview.RazorTargetAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\obj\Debug\netcoreapp2.2\Day 32 - EFCoreReview.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 32 - EFCoreReview\Day 32 - EFCoreReview\obj\Debug\netcoreapp2.2\Day 32 - EFCoreReview.pdb

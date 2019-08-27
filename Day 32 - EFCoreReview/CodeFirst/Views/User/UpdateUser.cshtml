@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "UpdateUser";
+}
+
+<h1>Update User</h1>
+
+@model CodeFirst.Context.Users
+
+<form action="UpdateUser" method="post">
+    <input type="hidden" name="UserId" value="@Model.UserId" />
+    <input type="text" name="FirstName" value="@Model.FirstName" placeholder="@Model.FirstName" />
+    <input type="text" name="LastName" value="@Model.LastName" placeholder="@Model.LastName" />
+    <input type="text" name="DateOfBirth" value="@Model.DateOfBirth" placeholder="@Model.DateOfBirth.ToShortDateString()" />
+    <input type="text" name="City" value="@Model.City" placeholder="@Model.City" />
+
+    <input type="submit" value="Update User!" class="btn-light" />
+</form>
+
+@Html.ValidationSummary()
