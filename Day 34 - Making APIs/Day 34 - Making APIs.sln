@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 34 - Making APIs", "Day 34 - Making APIs\Day 34 - Making APIs.csproj", "{79F7738C-6FAB-42EE-B9C1-CA2EF066087D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F7738C-6FAB-42EE-B9C1-CA2EF066087D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F7738C-6FAB-42EE-B9C1-CA2EF066087D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F7738C-6FAB-42EE-B9C1-CA2EF066087D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F7738C-6FAB-42EE-B9C1-CA2EF066087D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A002085C-A9C2-4A15-BD58-8113BBBDA7EE}
+	EndGlobalSection
+EndGlobal

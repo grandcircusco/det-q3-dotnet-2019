@@ -1,0 +1,14 @@
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\bin\Debug\netcoreapp2.2\Day 34 - Making APIs.deps.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\bin\Debug\netcoreapp2.2\Day 34 - Making APIs.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\bin\Debug\netcoreapp2.2\Day 34 - Making APIs.runtimeconfig.dev.json
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\bin\Debug\netcoreapp2.2\Day 34 - Making APIs.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\bin\Debug\netcoreapp2.2\Day 34 - Making APIs.pdb
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\obj\Debug\netcoreapp2.2\Day 34 - Making APIs.csprojAssemblyReference.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\obj\Debug\netcoreapp2.2\Day 34 - Making APIs.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\obj\Debug\netcoreapp2.2\Day 34 - Making APIs.RazorAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\obj\Debug\netcoreapp2.2\Day 34 - Making APIs.RazorAssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\obj\Debug\netcoreapp2.2\Day 34 - Making APIs.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\obj\Debug\netcoreapp2.2\Day 34 - Making APIs.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\obj\Debug\netcoreapp2.2\Day 34 - Making APIs.RazorTargetAssemblyInfo.cache
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\obj\Debug\netcoreapp2.2\Day 34 - Making APIs.dll
+C:\Users\grand\OneDrive\Desktop\Grand Circus Docs - Anna\det-q3-dotnet-2019\Day 34 - Making APIs\Day 34 - Making APIs\obj\Debug\netcoreapp2.2\Day 34 - Making APIs.pdb

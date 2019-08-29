@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "EditEmployee";
+}
+
+@model MakingAPIsMVC.Models.Employee
+<h1>Edit Employee</h1>
+
+<form action="EditEmployee" method="post">
+    <input type="hidden" name="employeeId" value="@Model.employeeId" />
+    <input type="text" name="firstName" value="@Model.firstName" placeholder="@Model.firstName" />
+    <input type="text" name="lastName" value="@Model.lastName" placeholder="@Model.lastName" />
+    <input type="date" name="startDate" value="@Model.startDate" placeholder="@Model.startDate" />
+    <input type="date" name="endDate" value="@Model.endDate" placeholder="@Model.endDate" />
+
+    <input type="submit" value="Save changes!" />
+</form>
