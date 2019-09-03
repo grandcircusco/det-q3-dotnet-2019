@@ -1,1 +1,3 @@
 THIS SHOULD CAUSE A MERGE CONFLICT
+This is our branching example! Yay!
+this is a change!
