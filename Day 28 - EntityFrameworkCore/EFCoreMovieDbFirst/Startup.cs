@@ -36,7 +36,8 @@ namespace EFCoreMovieDbFirst
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            var connection = "Server=.\\sqlexpress;Database=MovieDb;Trusted_Connection=True;ConnectRetryCount=0";
+            var connection = "Server=classdemodb.ctdrphmfxdon.us-east-2.rds.amazonaws.com,1433;Database=MovieDb;user=admin;password=Hello!1234;ConnectRetryCount=0";
+            //var connection = "Server=testdbtest.ctdrphmfxdon.us-east-2.rds.amazonaws.com,1433;Database=MovieDb2;user=admin;password=Hello!1234;ConnectRetryCount=0";
             services.AddDbContext<MovieDbContext>(options => options.UseSqlServer(connection));
         }
 

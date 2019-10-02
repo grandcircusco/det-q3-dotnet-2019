@@ -23,7 +23,7 @@ namespace EFCoreMovieDbFirst.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=.\\SQLExpress;Database=MovieDb;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=classdemodb.ctdrphmfxdon.us-east-2.rds.amazonaws.com,1433;Database=MovieDb;user=admin;password=Hello!1234;ConnectRetryCount=0");
             }
         }
 

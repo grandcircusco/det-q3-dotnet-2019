@@ -25,6 +25,7 @@ namespace Day_33___WebAPIsDay3.Controllers
 
             var response = await client.GetAsync("v1/breeds");
             var catBreeds = await response.Content.ReadAsAsync<List<CatBreed>>();
+            //var catBreeds = await response.Content.ReadAsStringAsync();
             return catBreeds;
         }
 
